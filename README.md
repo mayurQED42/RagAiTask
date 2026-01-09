@@ -10,3 +10,11 @@ Awareness of retrieval-specific embedding behavior
 Practical engineering judgment regarding performance vs. resource constraints
 
 This model forms a strong foundation for the downstream RAG and tool-augmented chat components of the system.
+
+
+# Run this on local
+streamlit run app.py
+
+
+# dummmy question for rag
+What’s the weather in pune
